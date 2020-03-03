@@ -14,3 +14,5 @@ TextBlob is a Python (2 and 3) library for processing textual data. It provides 
 - Textblob: This is a Python library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks.
 
 - NLTK: This is a suite of libraries and programs for symbolic and statistical natural language processing (NLP) for English written in the Python programming language.
+
+- WordCloud: This is a data visualization technique used for representing text data in which the size of each word indicates its frequency or importance. Significant textual data points can be highlighted using a word cloud.
